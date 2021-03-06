@@ -4,10 +4,8 @@ def is_even(x):
     else:
         return False
 
-    print('Function finished.')
 
-
-def foo(bar):
+def foo():
     return 0
 
 
